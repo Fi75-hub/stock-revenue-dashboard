@@ -1,0 +1,1 @@
+This project analyzes historical stock and revenue data for Tesla and GameStop. It uses Python libraries such as yfinance, requests, BeautifulSoup, pandas, and Plotly to collect, clean, organize, and visualize the data. The final notebook displays stock and revenue trends for both companies in dashboard-style graphs.
